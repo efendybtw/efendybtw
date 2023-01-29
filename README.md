@@ -1,4 +1,4 @@
-<!-- <div align="center">
+ <div align="center">
 	<br />
 	<p>
 		<a href="https://discord.js.org"><img src="https://discord.js.org/static/logo.svg" width="546" alt="discord.js" /></a>
@@ -14,7 +14,7 @@
 	<p>
 		<a href="https://vercel.com/?utm_source=discordjs&utm_campaign=oss"><img src="https://raw.githubusercontent.com/discordjs/discord.js/main/.github/powered-by-vercel.svg" alt="Vercel" /></a>
 	</p>
-</div> -->
+</div>
 
 ## Profilime Hoşgeldiniz
 
